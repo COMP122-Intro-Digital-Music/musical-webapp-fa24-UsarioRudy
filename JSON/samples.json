@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Bass",
+    "file": "samples/Cowboys_23_Bass_Bb_120bpm.wav",
+    "bpm": "120",
+    "loop": "17m"
+  },
+  {
+    "name": "Guitar",
+    "file": "samples/Cowboys_23_Guitar_Bb_120bpm.wav",
+    "bpm": "120",
+    "loop": "17m"
+  },
+  {
+    "name": "Piano",
+    "file": "samples/Cowboys_23_Piano_Bb_120bpm.wav",
+    "bpm": "120",
+    "loop": "17m"
+  }
+]
